@@ -1,7 +1,7 @@
 ---
 title: "如何系统性了解 OpenClaw：从工具到体系"
 date: "2026-04-03"
-category: "AI与技术"
+category: "ai-technology"
 summary: "从底层原理、功能模块到实际应用，系统性拆解 OpenClaw 的学习路径与使用方法。"
 tags: ["OpenClaw", "AI工具", "自动化", "工程系统"]
 coverImage: "/images/ai/openclaw-cover.jpg"
