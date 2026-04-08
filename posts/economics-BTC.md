@@ -4,7 +4,7 @@ date: "2026-04-08"
 category: "economics"
 summary: "整理了BTC定价模型研究资料，涵盖基础理论、应用案例与参考文献。"
 tags: ["BTC", "定价模型", "经济学"]
-coverImage: "/images/categories/Warren Buffett.png"
+coverImage: "/images/categories/Warren-Buffett.png"
 ---
 
 
