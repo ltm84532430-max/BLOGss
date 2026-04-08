@@ -15,6 +15,8 @@ export function CoverImage({
   className,
   overlayClassName
 }: CoverImageProps) {
+  const isPng = src.toLowerCase().endsWith(".png");
+
   return (
     <div className={`relative overflow-hidden ${className ?? ""}`}>
       <Image
@@ -22,6 +24,7 @@ export function CoverImage({
         alt={alt}
         fill
         priority={priority}
+        unoptimized={isPng}
         className="object-cover"
         sizes="(max-width: 768px) 100vw, 50vw"
       />
