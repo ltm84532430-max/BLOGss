@@ -1,8 +1,11 @@
-title: "BTC 定价模型研究资料汇总"
+---
+title: "BTC定价模型研究"
+date: "2026-04-08"
 category: "economics"
-date: "2026-04-10"
-
-
+summary: "整理了BTC定价模型研究资料，涵盖基础理论、应用案例与参考文献。"
+tags: ["BTC", "定价模型", "经济学"]
+coverImage: "/images/economics/btc-cover.jpg"
+---
 
 
 > 收集时间：2026-04-08
